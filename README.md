@@ -1,53 +1,35 @@
 # Revenue Ops Blueprints
 
-## Revenue Operations Exists To Create Alignment
+A collection of practical frameworks for designing, operating, and scaling revenue operations functions.
 
-Alignment between:
+## What You'll Learn
 
-- Marketing
-- Sales
-- Customer Success
+- Revenue operating models
+- RevOps team structures
+- Governance frameworks
+- KPI ownership models
+- Process design
+- Cross-functional alignment
 
----
+## Frameworks Included
 
-## Core Components
+- Revenue Operating Model
+- RevOps Team Design
+- KPI Ownership Matrix
+- Revenue Process Map
+- RevOps Governance Framework
 
-### Data
+## Who This Is For
 
-- Single source of truth
-- Data governance
-- Attribution
+- Revenue Operations Leaders
+- Growth Managers
+- Sales Operations Teams
+- GTM Leaders
+- Startup Founders
 
-### Process
+## Author
 
-- Lead management
-- Opportunity management
-- Forecasting
+Shashank Venugopal
 
-### Technology
-
-- CRM
-- Automation
-- Reporting
-
-### Insights
-
-- Conversion rates
-- Sales velocity
-- Pipeline health
-
----
-
-## My View
-
-Revenue growth is usually a systems problem.
-
-Not a people problem.
-
-Not a tool problem.
-
-A systems problem.
-
----
-
-### Better systems create better outcomes.
+LinkedIn:
+https://www.linkedin.com/in/shashank-venugopal
